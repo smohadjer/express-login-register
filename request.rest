@@ -7,7 +7,7 @@ Content-Type: application/json
 
 {
   "username": "saeid",
-  "password": "opengl"
+  "password": "badpassword"
 }
 
 ###
@@ -17,5 +17,5 @@ Content-Type: application/json
 
 {
   "username": "saeid",
-  "password": "opengl"
+  "password": "badpassword"
 }

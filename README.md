@@ -1,1 +1,1 @@
-Prototype for implementing login and register in express.js
+Minimal implementation of login and registeration in Node.js using Express.js and without a UI (use request.rest for testing) or a database (data is stored in an array in memory). Bcrypt is used to hash passwords with a salt.
